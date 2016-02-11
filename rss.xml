@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Alex' Grid]]></title>
+        <description><![CDATA[Alex' Grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 10:23:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid Membership went live. Finally.]]></title>
+            <description><![CDATA[<article><h1>The Grid Membership went live. Finally.</h1><p>So this is *The Grid* then. Let's see what comes of it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56e08aa61cbfe5abd64a5165396e3318e01224d9.png"></article>]]></description>
+            <link>undefinedthe-grid-membership-went-live-finally/index.html</link>
+            <guid isPermaLink="false">a57e137a-d7fb-45d6-aae5-43f54b677a3b</guid>
+            <pubDate>Thu, 11 Feb 2016 10:23:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
