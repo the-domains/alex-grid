@@ -1,0 +1,28 @@
+name: "Alex' Grid"
+favicon: null
+layout_spectrum: 0.39304660609923303
+typography_spectrum: 0.12645433098077774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7228554519824684
+  lightness: 0.7576265728566796
+  saturation: 0.08465082896873355
+  rhythmicContrast: 0.8471586783416569
+purpose: []
