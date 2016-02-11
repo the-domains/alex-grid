@@ -2,6 +2,7 @@ name: "Alex' Grid"
 favicon: null
 layout_spectrum: 0.39304660609923303
 typography_spectrum: 0.12645433098077774
+title: "Alex' The Grid Testsite"
 cta:
   domain: null
   bucket: null
