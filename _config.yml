@@ -1,20 +1,4 @@
-name: "Alex' Grid"
-favicon: null
-layout_spectrum: 0.39304660609923303
 typography_spectrum: 0.18679
-title: "Alex' The Grid Testsite"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ececec'
@@ -26,4 +10,26 @@ color:
   lightness: 0.1875
   saturation: 0.125
   rhythmicContrast: 1
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.39304660609923303
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Alexander Kucera
+  email: a.kucera@babylondreams.de
+  url: 'http://alexanderkucera.com'
+name: Alex' Grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Alex' The Grid Testsite
+content: []
 purpose: []
